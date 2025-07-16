@@ -1,0 +1,1505 @@
+{
+  "title": "Chapter 1: Introduction to Topic 1",
+  "outline": [
+    {
+      "level": "h1",
+      "text": "Subtopic 1.1: Overview",
+      "page": 1
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 1.",
+      "page": 1
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 1.2: Detailed Discussion",
+      "page": 1
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 1.",
+      "page": 1
+    },
+    {
+      "level": "h2",
+      "text": "Note 1.2.1: Important Note",
+      "page": 1
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 1.2.",
+      "page": 1
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 2.1: Overview",
+      "page": 2
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 2.",
+      "page": 2
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 2.2: Detailed Discussion",
+      "page": 2
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 2.",
+      "page": 2
+    },
+    {
+      "level": "h2",
+      "text": "Note 2.2.1: Important Note",
+      "page": 2
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 2.2.",
+      "page": 2
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 3.1: Overview",
+      "page": 3
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 3.",
+      "page": 3
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 3.2: Detailed Discussion",
+      "page": 3
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 3.",
+      "page": 3
+    },
+    {
+      "level": "h2",
+      "text": "Note 3.2.1: Important Note",
+      "page": 3
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 3.2.",
+      "page": 3
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 4.1: Overview",
+      "page": 4
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 4.",
+      "page": 4
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 4.2: Detailed Discussion",
+      "page": 4
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 4.",
+      "page": 4
+    },
+    {
+      "level": "h2",
+      "text": "Note 4.2.1: Important Note",
+      "page": 4
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 4.2.",
+      "page": 4
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 5.1: Overview",
+      "page": 5
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 5.",
+      "page": 5
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 5.2: Detailed Discussion",
+      "page": 5
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 5.",
+      "page": 5
+    },
+    {
+      "level": "h2",
+      "text": "Note 5.2.1: Important Note",
+      "page": 5
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 5.2.",
+      "page": 5
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 6.1: Overview",
+      "page": 6
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 6.",
+      "page": 6
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 6.2: Detailed Discussion",
+      "page": 6
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 6.",
+      "page": 6
+    },
+    {
+      "level": "h2",
+      "text": "Note 6.2.1: Important Note",
+      "page": 6
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 6.2.",
+      "page": 6
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 7.1: Overview",
+      "page": 7
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 7.",
+      "page": 7
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 7.2: Detailed Discussion",
+      "page": 7
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 7.",
+      "page": 7
+    },
+    {
+      "level": "h2",
+      "text": "Note 7.2.1: Important Note",
+      "page": 7
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 7.2.",
+      "page": 7
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 8.1: Overview",
+      "page": 8
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 8.",
+      "page": 8
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 8.2: Detailed Discussion",
+      "page": 8
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 8.",
+      "page": 8
+    },
+    {
+      "level": "h2",
+      "text": "Note 8.2.1: Important Note",
+      "page": 8
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 8.2.",
+      "page": 8
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 9.1: Overview",
+      "page": 9
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 9.",
+      "page": 9
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 9.2: Detailed Discussion",
+      "page": 9
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 9.",
+      "page": 9
+    },
+    {
+      "level": "h2",
+      "text": "Note 9.2.1: Important Note",
+      "page": 9
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 9.2.",
+      "page": 9
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 10.1: Overview",
+      "page": 10
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 10.",
+      "page": 10
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 10.2: Detailed Discussion",
+      "page": 10
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 10.",
+      "page": 10
+    },
+    {
+      "level": "h2",
+      "text": "Note 10.2.1: Important Note",
+      "page": 10
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 10.2.",
+      "page": 10
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 11.1: Overview",
+      "page": 11
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 11.",
+      "page": 11
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 11.2: Detailed Discussion",
+      "page": 11
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 11.",
+      "page": 11
+    },
+    {
+      "level": "h2",
+      "text": "Note 11.2.1: Important Note",
+      "page": 11
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 11.2.",
+      "page": 11
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 12.1: Overview",
+      "page": 12
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 12.",
+      "page": 12
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 12.2: Detailed Discussion",
+      "page": 12
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 12.",
+      "page": 12
+    },
+    {
+      "level": "h2",
+      "text": "Note 12.2.1: Important Note",
+      "page": 12
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 12.2.",
+      "page": 12
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 13.1: Overview",
+      "page": 13
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 13.",
+      "page": 13
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 13.2: Detailed Discussion",
+      "page": 13
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 13.",
+      "page": 13
+    },
+    {
+      "level": "h2",
+      "text": "Note 13.2.1: Important Note",
+      "page": 13
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 13.2.",
+      "page": 13
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 14.1: Overview",
+      "page": 14
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 14.",
+      "page": 14
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 14.2: Detailed Discussion",
+      "page": 14
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 14.",
+      "page": 14
+    },
+    {
+      "level": "h2",
+      "text": "Note 14.2.1: Important Note",
+      "page": 14
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 14.2.",
+      "page": 14
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 15.1: Overview",
+      "page": 15
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 15.",
+      "page": 15
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 15.2: Detailed Discussion",
+      "page": 15
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 15.",
+      "page": 15
+    },
+    {
+      "level": "h2",
+      "text": "Note 15.2.1: Important Note",
+      "page": 15
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 15.2.",
+      "page": 15
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 16.1: Overview",
+      "page": 16
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 16.",
+      "page": 16
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 16.2: Detailed Discussion",
+      "page": 16
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 16.",
+      "page": 16
+    },
+    {
+      "level": "h2",
+      "text": "Note 16.2.1: Important Note",
+      "page": 16
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 16.2.",
+      "page": 16
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 17.1: Overview",
+      "page": 17
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 17.",
+      "page": 17
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 17.2: Detailed Discussion",
+      "page": 17
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 17.",
+      "page": 17
+    },
+    {
+      "level": "h2",
+      "text": "Note 17.2.1: Important Note",
+      "page": 17
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 17.2.",
+      "page": 17
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 18.1: Overview",
+      "page": 18
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 18.",
+      "page": 18
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 18.2: Detailed Discussion",
+      "page": 18
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 18.",
+      "page": 18
+    },
+    {
+      "level": "h2",
+      "text": "Note 18.2.1: Important Note",
+      "page": 18
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 18.2.",
+      "page": 18
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 19.1: Overview",
+      "page": 19
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 19.",
+      "page": 19
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 19.2: Detailed Discussion",
+      "page": 19
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 19.",
+      "page": 19
+    },
+    {
+      "level": "h2",
+      "text": "Note 19.2.1: Important Note",
+      "page": 19
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 19.2.",
+      "page": 19
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 20.1: Overview",
+      "page": 20
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 20.",
+      "page": 20
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 20.2: Detailed Discussion",
+      "page": 20
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 20.",
+      "page": 20
+    },
+    {
+      "level": "h2",
+      "text": "Note 20.2.1: Important Note",
+      "page": 20
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 20.2.",
+      "page": 20
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 21.1: Overview",
+      "page": 21
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 21.",
+      "page": 21
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 21.2: Detailed Discussion",
+      "page": 21
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 21.",
+      "page": 21
+    },
+    {
+      "level": "h2",
+      "text": "Note 21.2.1: Important Note",
+      "page": 21
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 21.2.",
+      "page": 21
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 22.1: Overview",
+      "page": 22
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 22.",
+      "page": 22
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 22.2: Detailed Discussion",
+      "page": 22
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 22.",
+      "page": 22
+    },
+    {
+      "level": "h2",
+      "text": "Note 22.2.1: Important Note",
+      "page": 22
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 22.2.",
+      "page": 22
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 23.1: Overview",
+      "page": 23
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 23.",
+      "page": 23
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 23.2: Detailed Discussion",
+      "page": 23
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 23.",
+      "page": 23
+    },
+    {
+      "level": "h2",
+      "text": "Note 23.2.1: Important Note",
+      "page": 23
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 23.2.",
+      "page": 23
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 24.1: Overview",
+      "page": 24
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 24.",
+      "page": 24
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 24.2: Detailed Discussion",
+      "page": 24
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 24.",
+      "page": 24
+    },
+    {
+      "level": "h2",
+      "text": "Note 24.2.1: Important Note",
+      "page": 24
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 24.2.",
+      "page": 24
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 25.1: Overview",
+      "page": 25
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 25.",
+      "page": 25
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 25.2: Detailed Discussion",
+      "page": 25
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 25.",
+      "page": 25
+    },
+    {
+      "level": "h2",
+      "text": "Note 25.2.1: Important Note",
+      "page": 25
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 25.2.",
+      "page": 25
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 26.1: Overview",
+      "page": 26
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 26.",
+      "page": 26
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 26.2: Detailed Discussion",
+      "page": 26
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 26.",
+      "page": 26
+    },
+    {
+      "level": "h2",
+      "text": "Note 26.2.1: Important Note",
+      "page": 26
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 26.2.",
+      "page": 26
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 27.1: Overview",
+      "page": 27
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 27.",
+      "page": 27
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 27.2: Detailed Discussion",
+      "page": 27
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 27.",
+      "page": 27
+    },
+    {
+      "level": "h2",
+      "text": "Note 27.2.1: Important Note",
+      "page": 27
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 27.2.",
+      "page": 27
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 28.1: Overview",
+      "page": 28
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 28.",
+      "page": 28
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 28.2: Detailed Discussion",
+      "page": 28
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 28.",
+      "page": 28
+    },
+    {
+      "level": "h2",
+      "text": "Note 28.2.1: Important Note",
+      "page": 28
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 28.2.",
+      "page": 28
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 29.1: Overview",
+      "page": 29
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 29.",
+      "page": 29
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 29.2: Detailed Discussion",
+      "page": 29
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 29.",
+      "page": 29
+    },
+    {
+      "level": "h2",
+      "text": "Note 29.2.1: Important Note",
+      "page": 29
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 29.2.",
+      "page": 29
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 30.1: Overview",
+      "page": 30
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 30.",
+      "page": 30
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 30.2: Detailed Discussion",
+      "page": 30
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 30.",
+      "page": 30
+    },
+    {
+      "level": "h2",
+      "text": "Note 30.2.1: Important Note",
+      "page": 30
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 30.2.",
+      "page": 30
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 31.1: Overview",
+      "page": 31
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 31.",
+      "page": 31
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 31.2: Detailed Discussion",
+      "page": 31
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 31.",
+      "page": 31
+    },
+    {
+      "level": "h2",
+      "text": "Note 31.2.1: Important Note",
+      "page": 31
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 31.2.",
+      "page": 31
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 32.1: Overview",
+      "page": 32
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 32.",
+      "page": 32
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 32.2: Detailed Discussion",
+      "page": 32
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 32.",
+      "page": 32
+    },
+    {
+      "level": "h2",
+      "text": "Note 32.2.1: Important Note",
+      "page": 32
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 32.2.",
+      "page": 32
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 33.1: Overview",
+      "page": 33
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 33.",
+      "page": 33
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 33.2: Detailed Discussion",
+      "page": 33
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 33.",
+      "page": 33
+    },
+    {
+      "level": "h2",
+      "text": "Note 33.2.1: Important Note",
+      "page": 33
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 33.2.",
+      "page": 33
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 34.1: Overview",
+      "page": 34
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 34.",
+      "page": 34
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 34.2: Detailed Discussion",
+      "page": 34
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 34.",
+      "page": 34
+    },
+    {
+      "level": "h2",
+      "text": "Note 34.2.1: Important Note",
+      "page": 34
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 34.2.",
+      "page": 34
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 35.1: Overview",
+      "page": 35
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 35.",
+      "page": 35
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 35.2: Detailed Discussion",
+      "page": 35
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 35.",
+      "page": 35
+    },
+    {
+      "level": "h2",
+      "text": "Note 35.2.1: Important Note",
+      "page": 35
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 35.2.",
+      "page": 35
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 36.1: Overview",
+      "page": 36
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 36.",
+      "page": 36
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 36.2: Detailed Discussion",
+      "page": 36
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 36.",
+      "page": 36
+    },
+    {
+      "level": "h2",
+      "text": "Note 36.2.1: Important Note",
+      "page": 36
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 36.2.",
+      "page": 36
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 37.1: Overview",
+      "page": 37
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 37.",
+      "page": 37
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 37.2: Detailed Discussion",
+      "page": 37
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 37.",
+      "page": 37
+    },
+    {
+      "level": "h2",
+      "text": "Note 37.2.1: Important Note",
+      "page": 37
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 37.2.",
+      "page": 37
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 38.1: Overview",
+      "page": 38
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 38.",
+      "page": 38
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 38.2: Detailed Discussion",
+      "page": 38
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 38.",
+      "page": 38
+    },
+    {
+      "level": "h2",
+      "text": "Note 38.2.1: Important Note",
+      "page": 38
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 38.2.",
+      "page": 38
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 39.1: Overview",
+      "page": 39
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 39.",
+      "page": 39
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 39.2: Detailed Discussion",
+      "page": 39
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 39.",
+      "page": 39
+    },
+    {
+      "level": "h2",
+      "text": "Note 39.2.1: Important Note",
+      "page": 39
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 39.2.",
+      "page": 39
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 40.1: Overview",
+      "page": 40
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 40.",
+      "page": 40
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 40.2: Detailed Discussion",
+      "page": 40
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 40.",
+      "page": 40
+    },
+    {
+      "level": "h2",
+      "text": "Note 40.2.1: Important Note",
+      "page": 40
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 40.2.",
+      "page": 40
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 41.1: Overview",
+      "page": 41
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 41.",
+      "page": 41
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 41.2: Detailed Discussion",
+      "page": 41
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 41.",
+      "page": 41
+    },
+    {
+      "level": "h2",
+      "text": "Note 41.2.1: Important Note",
+      "page": 41
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 41.2.",
+      "page": 41
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 42.1: Overview",
+      "page": 42
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 42.",
+      "page": 42
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 42.2: Detailed Discussion",
+      "page": 42
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 42.",
+      "page": 42
+    },
+    {
+      "level": "h2",
+      "text": "Note 42.2.1: Important Note",
+      "page": 42
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 42.2.",
+      "page": 42
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 43.1: Overview",
+      "page": 43
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 43.",
+      "page": 43
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 43.2: Detailed Discussion",
+      "page": 43
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 43.",
+      "page": 43
+    },
+    {
+      "level": "h2",
+      "text": "Note 43.2.1: Important Note",
+      "page": 43
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 43.2.",
+      "page": 43
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 44.1: Overview",
+      "page": 44
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 44.",
+      "page": 44
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 44.2: Detailed Discussion",
+      "page": 44
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 44.",
+      "page": 44
+    },
+    {
+      "level": "h2",
+      "text": "Note 44.2.1: Important Note",
+      "page": 44
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 44.2.",
+      "page": 44
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 45.1: Overview",
+      "page": 45
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 45.",
+      "page": 45
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 45.2: Detailed Discussion",
+      "page": 45
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 45.",
+      "page": 45
+    },
+    {
+      "level": "h2",
+      "text": "Note 45.2.1: Important Note",
+      "page": 45
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 45.2.",
+      "page": 45
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 46.1: Overview",
+      "page": 46
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 46.",
+      "page": 46
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 46.2: Detailed Discussion",
+      "page": 46
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 46.",
+      "page": 46
+    },
+    {
+      "level": "h2",
+      "text": "Note 46.2.1: Important Note",
+      "page": 46
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 46.2.",
+      "page": 46
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 47.1: Overview",
+      "page": 47
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 47.",
+      "page": 47
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 47.2: Detailed Discussion",
+      "page": 47
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 47.",
+      "page": 47
+    },
+    {
+      "level": "h2",
+      "text": "Note 47.2.1: Important Note",
+      "page": 47
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 47.2.",
+      "page": 47
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 48.1: Overview",
+      "page": 48
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 48.",
+      "page": 48
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 48.2: Detailed Discussion",
+      "page": 48
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 48.",
+      "page": 48
+    },
+    {
+      "level": "h2",
+      "text": "Note 48.2.1: Important Note",
+      "page": 48
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 48.2.",
+      "page": 48
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 49.1: Overview",
+      "page": 49
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 49.",
+      "page": 49
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 49.2: Detailed Discussion",
+      "page": 49
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 49.",
+      "page": 49
+    },
+    {
+      "level": "h2",
+      "text": "Note 49.2.1: Important Note",
+      "page": 49
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 49.2.",
+      "page": 49
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 50.1: Overview",
+      "page": 50
+    },
+    {
+      "level": "h2",
+      "text": "This section covers the basics of topic 50.",
+      "page": 50
+    },
+    {
+      "level": "h1",
+      "text": "Subtopic 50.2: Detailed Discussion",
+      "page": 50
+    },
+    {
+      "level": "h2",
+      "text": "This section provides detailed insights and examples for topic 50.",
+      "page": 50
+    },
+    {
+      "level": "h2",
+      "text": "Note 50.2.1: Important Note",
+      "page": 50
+    },
+    {
+      "level": "h2",
+      "text": "Key points and takeaways for subtopic 50.2.",
+      "page": 50
+    }
+  ]
+}
